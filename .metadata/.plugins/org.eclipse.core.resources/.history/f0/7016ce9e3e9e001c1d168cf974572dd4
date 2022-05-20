@@ -1,0 +1,5 @@
+package com.realtime.expensetracker.controller;
+
+public class ExpenseController {
+
+}
